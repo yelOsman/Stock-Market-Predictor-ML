@@ -1,15 +1,14 @@
 """
-Assignment Backtesting Script - Final Version
-Calculates Final Score and 4 Required Metrics
-Author: Stock Prediction ML Project
-Date: January 2026
+Advanced Backtesting System
+Calculates Performance Metrics and Strategy Comparisons
+Author: Quantitative Analyst
+Date: 2026
 
-This script implements the exact backtesting methodology required by the assignment:
+This script implements a rigorous backtesting methodology:
 - Initial Capital: $100,000
 - Daily execution on next day OPEN price
 - Transaction fee: 1/1000 (0.1%)
-- Final Score = Strategy Value / Buy & Hold Value
-- 4 Required Metrics: ROI, Net Profit, Win Rate, Beta
+- Metrics: ROI, Net Profit, Win Rate, Beta, Relative Performance Score
 """
 
 import pandas as pd

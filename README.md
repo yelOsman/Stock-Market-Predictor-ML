@@ -1,4 +1,4 @@
-# Stock Prediction Project - Group 13
+# Stock Prediction Engine - Machine Learning Pipeline
 
 This project aims to predict stock prices using various machine learning models and technical indicators. It includes a complete pipeline for data extraction, transformation, model training, scoring, and backtesting.
 
@@ -65,5 +65,5 @@ python Scripts/visualize_results.py
 ```
 
 
-## Contributing
-- Partipciants: (See `Partipciants.txt` for details)
+## Author
+Developed as an end-to-end Machine Learning research project for stock market analysis and automated trading strategy evaluation.
