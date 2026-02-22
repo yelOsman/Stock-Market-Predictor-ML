@@ -1,0 +1,13 @@
+pandas
+numpy
+yfinance
+psycopg2-binary
+scikit-learn
+xgboost
+lightgbm
+joblib
+python-dotenv
+sqlalchemy
+matplotlib
+seaborn
+jupyter
