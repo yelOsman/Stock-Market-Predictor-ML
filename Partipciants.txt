@@ -1,6 +1,0 @@
-Osman Yel 090200764
-Merhaba,grup13 te 2 kişiydik. Önceki ödevlerde diğer arkadaşa ulaşmıştım ancak gerekli katılım sağlamamıştı.
-Dönem projesinde ise benimle  iletişime geçmedi. Bu sebeple ödevi yalnız yaptım ve yükledim. Kendisinin ayrı 
-olarak uğraşıp uğraşmadığını bilmiyorum. Ödevde son aşamalardabir çok algoritma  denesem de final scoreda
-iyileştirme sağlayamadım. Yapay zeka yardımı alarak da çözemedim. Muhtemelen kötü feature engineering yaptım.
-Dönem boyunca sağladığınız bilgi ve sabrınız için teşekkür ederim. İyi günler.
